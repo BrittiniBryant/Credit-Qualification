@@ -1,4 +1,4 @@
-# Credit-Quallification
+# Credit-Qualification
 A small app that tests whether your credit score is high enough for our "Bank" to lend you money for a new car.
 
 This small app was made to demonstrate ability to use decision structures, logical operators, comparison operators and JOptionPane.
